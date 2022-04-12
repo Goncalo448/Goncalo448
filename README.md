@@ -7,5 +7,5 @@ Hey there! My name is Gonçalo and I'm 19 years old.
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goncalo448&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goncalo448&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
