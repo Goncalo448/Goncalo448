@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-Hey there! My name is Gonçalo and I'm 19 years old.
-- 🌱 I’m currently learning Computer Science.
-- 😄 Pronouns: I/You/He/She/It/We/They
-- Fun fact: O pai dela era minha tia!
+Hey there! My name is Gonçalo and I'm 20 years old.
 
 <br />
 
