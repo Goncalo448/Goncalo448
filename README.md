@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey there! My name is Gonçalo and I'm 20 years old.
+Hey there! My name is Gonçalo and I'm 20 years old. I'm currently studying Computer Science at Uminho.
 
 <br />
 
